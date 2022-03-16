@@ -1,0 +1,12 @@
+
+public class Fruit {
+	public String name;
+	public double cost;
+	private int serialNumber;
+	Fruit()
+	{
+		name = "Apple";
+		cost = 2.50;
+		serialNumber = 1111;
+	}
+}
